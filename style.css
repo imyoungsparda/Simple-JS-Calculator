@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #0b090a;
+  text-align: center;
+}
+.clickEffect {
+  background-color: rgb(79, 34, 34);
+}
+
+/*----------------------------------------Heading Section------------------------------------*/
+h1 {
+  color: white;
+  margin: 30px auto 50px;
+  font-size: 5rem;
+}
+.screen {
+  width: 350px;
+  height: 50px;
+  margin: 0 auto 20px;
+  padding: 0;
+}
+input {
+  text-align: right;
+  font-size: 40px;
+}
+
+/*----------------------------------------Buttons Section------------------------------------*/
+.btn {
+  background-color: #4a4e69;
+  border-radius: 100px;
+  padding: 1%;
+  margin: 5px;
+  width: 80px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 2rem;
+}
+.btn:active {
+  background: #14213d;
+}
+.btn-op {
+  background-color: #fdb833;
+}
+.btn-0 {
+  width: 176px;
+}
+
+/*----------------------------------------Footer Section------------------------------------*/
+.footer {
+  background-color: white;
+  margin: 30px auto 0;
+  padding: 30px 0 10px;
+}
